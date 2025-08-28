@@ -1,0 +1,16 @@
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\bin\Debug\net8.0-windows\FractionCalculator.exe
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\bin\Debug\net8.0-windows\FractionCalculator.deps.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\bin\Debug\net8.0-windows\FractionCalculator.runtimeconfig.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\bin\Debug\net8.0-windows\FractionCalculator.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\bin\Debug\net8.0-windows\FractionCalculator.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.FractionCalculator.resources
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.csproj.GenerateResource.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.AssemblyInfoInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.AssemblyInfo.cs
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\refint\FractionCalculator.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\FractionCalculator.genruntimeconfig.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign06\FractionCalculator\obj\Debug\net8.0-windows\ref\FractionCalculator.dll
